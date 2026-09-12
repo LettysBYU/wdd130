@@ -1,0 +1,28 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #f0f8ff;
+    margin: 2;
+    padding: 2;
+}
+
+header {
+    background-color: #691b39;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 4rem;
+}
+
+h1 {
+    color: #4f2f3e;
+}
+
+footer {
+    background-color: #5f1b48;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+}
